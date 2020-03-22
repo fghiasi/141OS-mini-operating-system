@@ -1,0 +1,10 @@
+# Ignore build output directories
+/out
+
+
+# Ignore OS X DS Store
+.DS_Store
+
+# Ignore IDE files
+.idea
+*.iml
